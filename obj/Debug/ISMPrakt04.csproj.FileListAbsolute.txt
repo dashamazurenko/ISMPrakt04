@@ -1,0 +1,13 @@
+D:\Studies\Software Engineer Courses\ISMPrakt04\bin\Debug\ISMPrakt04.exe.config
+D:\Studies\Software Engineer Courses\ISMPrakt04\bin\Debug\ISMPrakt04.exe
+D:\Studies\Software Engineer Courses\ISMPrakt04\bin\Debug\ISMPrakt04.pdb
+D:\Studies\Software Engineer Courses\ISMPrakt04\bin\Debug\LibraryPrakt04.dll
+D:\Studies\Software Engineer Courses\ISMPrakt04\bin\Debug\LibraryPrakt04.pdb
+D:\Studies\Software Engineer Courses\ISMPrakt04\obj\Debug\ISMPrakt04.csproj.AssemblyReference.cache
+D:\Studies\Software Engineer Courses\ISMPrakt04\obj\Debug\ISMPrakt04.Form1.resources
+D:\Studies\Software Engineer Courses\ISMPrakt04\obj\Debug\ISMPrakt04.Properties.Resources.resources
+D:\Studies\Software Engineer Courses\ISMPrakt04\obj\Debug\ISMPrakt04.csproj.GenerateResource.cache
+D:\Studies\Software Engineer Courses\ISMPrakt04\obj\Debug\ISMPrakt04.csproj.CoreCompileInputs.cache
+D:\Studies\Software Engineer Courses\ISMPrakt04\obj\Debug\ISMPrakt04.csproj.CopyComplete
+D:\Studies\Software Engineer Courses\ISMPrakt04\obj\Debug\ISMPrakt04.exe
+D:\Studies\Software Engineer Courses\ISMPrakt04\obj\Debug\ISMPrakt04.pdb

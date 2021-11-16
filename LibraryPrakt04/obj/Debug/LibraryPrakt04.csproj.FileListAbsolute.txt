@@ -1,0 +1,6 @@
+D:\Studies\Software Engineer Courses\ISMPrakt04\LibraryPrakt04\bin\Debug\LibraryPrakt04.dll
+D:\Studies\Software Engineer Courses\ISMPrakt04\LibraryPrakt04\bin\Debug\LibraryPrakt04.pdb
+D:\Studies\Software Engineer Courses\ISMPrakt04\LibraryPrakt04\obj\Debug\LibraryPrakt04.csproj.AssemblyReference.cache
+D:\Studies\Software Engineer Courses\ISMPrakt04\LibraryPrakt04\obj\Debug\LibraryPrakt04.csproj.CoreCompileInputs.cache
+D:\Studies\Software Engineer Courses\ISMPrakt04\LibraryPrakt04\obj\Debug\LibraryPrakt04.dll
+D:\Studies\Software Engineer Courses\ISMPrakt04\LibraryPrakt04\obj\Debug\LibraryPrakt04.pdb
